@@ -1,0 +1,209 @@
+.card-body{
+	padding: 40px;
+	padding-bottom: 60px;
+}
+
+.card-body h3{
+	margin-bottom: 30px;
+}
+
+form{
+	padding: 0px;
+	background: none;
+}
+
+.fieldset{
+	border: 2px solid black;
+	border-top: 2px solid black;
+	padding-left: 10px;
+}
+
+.fieldset .legend{
+	position: relative;
+	top: -15px;
+	background-color: white;
+	width: fit-content;
+	margin-left: 10px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.contactFormCard{
+	-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+    margin-top: 50px;
+    border-radius: 25px;
+    background-color: rgba(255,255,255,0.1);
+}
+
+.formIcon{
+	float: left;
+	clear: both;
+    font-size: 28px !important;
+    width: 10% !important;
+    text-align: left;
+    margin-top: -5px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-right: 2%;
+    padding: 24px;
+	text-align: center;
+    transition: all 0.3s ease;
+}
+
+/*******************************FORM*********************************/
+.form{
+	width: 88%;
+	position: relative;
+	overflow: hidden;
+    margin: 0px auto;
+    margin-top: 10px;
+}
+
+.form input{
+	width: 100%;
+	height: 100%;
+	/*color: #595F6E;*/
+	color: #212529;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border: none;
+	outline: none;
+	background: none;
+}
+
+.form label{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+	border-bottom: 1px solid black;
+}
+
+.form label::after{
+	content: "";
+	position: absolute;
+	left: 0px;
+	bottom: -1px;
+	height: 100%;
+	width: 100%;
+	border-bottom: 3px solid #5fa8d3;
+	transform: translateX(-100%);
+	transition: transform 0.3s ease;
+}
+
+.contentName{
+	position: absolute;
+	bottom: 5px;
+	left: 0px;
+	transition: all 0.3s ease;
+}
+
+.form input:focus + .labelName .contentName,
+.form input:valid + .labelName .contentName{
+	transform: translateY(-150%);
+	font-size: 14px;
+	color: #5fa8d3;
+}
+
+.form input:focus + .labelName::after,
+.form input:valid + .labelName::after{
+	transform: translateX(0%);
+}
+
+/*******************************************************************/
+
+/**********************FORM textarea version************************/
+.areaForm{
+	width: 88%;
+	position: relative;
+	overflow: hidden;
+    margin: 0px auto;
+    margin-top: 10px;
+}
+
+.areaForm textarea{
+	width: 100%;
+	height: 150px;
+	/*color: #595F6E;*/
+	color: #212529;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	resize: none;
+	border: none;
+	outline: none;
+	background: none;
+}
+
+.areaForm label{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+	height: 180px;
+	pointer-events: none;
+	border-bottom: 1px solid black;
+}
+
+.areaForm label::after{
+	content: "";
+	position: absolute;
+	left: 0px;
+	bottom: -1px;
+	height: 150px;
+	width: 100%;
+	border-bottom: 3px solid #5fa8d3;
+	transform: translateX(-100%);
+	transition: transform 0.3s ease;
+}
+
+.areaContentName{
+	position: absolute;
+	top: 20px;
+	left: 0px;
+	transition: all 0.3s ease;
+}
+
+.areaForm textarea:focus + .areaLabelName .areaContentName,
+.areaForm textarea:valid + .areaLabelName .areaContentName{
+	transform: translateY(-100%);
+	font-size: 14px;
+	color: #5fa8d3;
+}
+
+.areaForm textarea:focus + .areaLabelName::after,
+.areaForm textarea:valid + .areaLabelName::after{
+	transform: translateX(0%);
+}
+
+/*******************************************************************/
+
+/**Mobile design**/
+@media screen and (max-width: 425px) {
+	.form{
+		width: 80%;
+		position: relative;
+		overflow: hidden;
+		margin: 0px auto;
+		margin-top: 10px;
+	}
+
+	.areaForm{
+		width: 80%;
+		position: relative;
+		overflow: hidden;
+		margin: 0px auto;
+		margin-top: 10px;
+	}
+
+	.formIcon{
+		font-size: 28px !important;
+		width: 10% !important;
+		margin-right: 5%;
+	}
+}
+/*---------------*/
