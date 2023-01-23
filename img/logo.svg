@@ -1,0 +1,73 @@
+<svg width="900" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <linearGradient y2="0" x2="0.5" y1="1" x1="0.5" id="svg_23">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#464647"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#757678"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="1" x1="0" id="svg_24">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#152c6b"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#1e6eb2"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="1" x1="0" id="svg_26">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#13114d"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#174b8d"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0" y1="1" x1="1" id="svg_27">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#131350"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#184e90"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0" y1="1" x1="1" id="svg_28">
+   <stop offset="0" stop-opacity="0.99219" stop-color="#152e6d"/>
+   <stop offset="1" stop-opacity="0.99219" stop-color="#317cba"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="1" x1="0" id="svg_29">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#2f2c2d"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#5f6061"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0" y1="1" x1="1" id="svg_30">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#2b2829"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#5e5f60"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0.5" y1="1" x1="0.5" id="svg_31">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#535355"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#939497"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="1" y1="1" x1="0" id="svg_32">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#120742"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#2ea1d9"/>
+  </linearGradient>
+  <linearGradient y2="0" x2="0" y1="1" x1="1" id="svg_33">
+   <stop offset="0" stop-opacity="0.99609" stop-color="#130b46"/>
+   <stop offset="1" stop-opacity="0.99609" stop-color="#68bee6"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="902" height="402" id="canvas_background" fill="none"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#737478" stroke-width="0" d="m26.1403,370.55327c0,0 393.53242,-102.03946 848.03465,0" id="svg_4" stroke="#000"/>
+  <path fill="#ffffff" stroke-width="0" d="m25.82501,371.22892c0,0 393.53242,-55.75401 848.03465,0" id="svg_5" stroke="#000"/>
+  <path fill="url(#svg_23)" stroke-width="0" stroke-opacity="null" d="m503.32792,317.16797c0,0 0,-159.18347 -0.40814,-159.59161c0.40814,0.40814 -51.02037,-52.24485 -51.42851,-52.653c0.40814,0.40815 -51.02036,53.06114 -51.02036,53.06114c0,0 0.10884,160.07236 -0.2993,159.66422c1.63263,0.40814 103.15631,-0.48075 103.15631,-0.48075z" id="svg_7" stroke="#000"/>
+  <rect id="svg_2" height="34" width="34" y="264.86606" x="414.29132" stroke-width="0" stroke="#000" fill="#fff"/>
+  <rect id="svg_8" height="34" width="34" y="222.47481" x="414.29132" stroke-width="0" stroke="#000" fill="#fff"/>
+  <rect id="svg_9" height="34" width="34" y="222.47481" x="455.90006" stroke-width="0" stroke="#000" fill="#fff"/>
+  <rect id="svg_10" height="34" width="34" y="180.47481" x="414.29132" stroke-width="0" stroke="#000" fill="#fff"/>
+  <rect id="svg_11" height="34" width="34" y="180.47481" x="455.90006" stroke-width="0" stroke="#000" fill="#fff"/>
+  <rect id="svg_12" height="34" width="34" y="264.86606" x="455.90006" stroke-width="0" stroke="#000" fill="#fff"/>
+  <path id="svg_13" d="m386.21158,318.32057c0,0 -1.0949,-159.85584 -1.45985,-160.22079c0.36495,0.36495 27.73753,-28.10253 27.37258,-28.46748c0.36495,0.36495 -70.80375,44.16107 -71.1687,43.79612c0.36495,0.36495 0.36495,145.98705 0,145.6221c0.36495,0.36495 45.25597,-0.72996 45.25597,-0.72996l0,0.00001z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="url(#svg_24)"/>
+  <path stroke="#000000" id="svg_15" d="m514.88766,317.91307c0,0 1.10032,-159.85584 1.46708,-160.22079c-0.36676,0.36495 -27.87483,-28.10253 -27.50809,-28.46748c-0.36675,0.36495 71.15426,44.16107 71.52101,43.79612c-0.36676,0.36495 -0.36676,145.98705 0,145.6221c-0.36676,0.36495 -45.48001,-0.72995 -45.48001,-0.72995l0.00001,0z" stroke-width="0" fill="url(#svg_28)"/>
+  <path id="svg_16" d="m327.75231,321.56568c0,0 0,-121.02272 0,-121.02272c0,0 -75.85226,28.97728 -75.85227,28.97727c0,0.00001 -58.80681,0.85228 -58.80681,0.85227c0,0.00001 0,103.125 0,103.12499c0,0.00001 58.80682,-5.9659 58.80681,-5.96591c0,0.00001 0,-87.78408 0,-87.78408c0,0.00001 40.90909,-11.93181 40.90909,-11.93182c0,0.00001 0,95.45454 0,95.45454c0,0.00001 34.94318,-1.70454 34.94318,-1.70454z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="url(#svg_26)"/>
+  <path stroke="#000" id="svg_17" d="m573.31941,321.56568c0,0 0,-121.02272 0.00001,-121.02272c-0.00001,0 75.99119,28.97727 75.99119,28.97727c0,0 58.91452,0.85227 58.91453,0.85227c-0.00001,0 -0.00001,103.125 0,103.12499c-0.00001,0.00001 -58.91453,-5.9659 -58.91453,-5.96591c0,0.00001 0,-87.78408 0,-87.78408c0,0 -40.98402,-11.93181 -40.98401,-11.93182c-0.00001,0.00001 -0.00001,95.45455 0,95.45454c-0.00001,0.00001 -35.00719,-1.70454 -35.00719,-1.70454z" stroke-opacity="null" stroke-width="0" fill="url(#svg_27)"/>
+  <path id="svg_18" d="m186.54273,334.97436c0,0 0,-110.35706 0,-110.35707c0,0.00001 65.35709,-2.14284 65.35709,-2.14285c0,0.00001 74.99995,-29.99997 74.99994,-29.99998c0.00001,0.00001 0.00001,-19.28569 0,-19.2857c0.00001,0.00001 -74.99994,29.99999 -74.99994,29.99998c0,0.00001 -203.57126,0.00001 -203.57127,0c32.14284,13.92857 52.49996,22.49999 52.49996,22.49998c1.07143,0.00001 0,121.07135 0,121.07133c0,0.00002 85.71422,-11.78569 85.71422,-11.78569z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="url(#svg_29)"/>
+  <path stroke="#000" id="svg_19" d="m714.47939,335.0104c0,0 0,-110.35706 0,-110.35707c0,0.00001 -65.48012,-2.14284 -65.48012,-2.14285c0,0.00001 -75.14113,-29.99997 -75.14112,-29.99998c-0.00001,0.00001 -0.00001,-19.28569 0,-19.2857c-0.00001,0.00001 75.14112,29.99999 75.14112,29.99998c0,0.00001 203.95447,0.00001 203.95448,0c-32.20335,13.92857 -52.59879,22.49999 -52.59879,22.49998c-1.07345,0.00001 0,121.07135 0,121.07133c0,0.00002 -85.87557,-11.78569 -85.87557,-11.78569z" stroke-opacity="null" stroke-width="0" fill="url(#svg_30)"/>
+  <path stroke="#000" id="svg_20" d="m648.93703,194.69699c0,0 -197.77776,-165.55554 -198.14812,-165.9259c0.37036,0.37036 -198.51851,164.81479 -198.88888,164.44443c0.37036,0.37036 200.37034,-86.2963 199.99999,-86.66666c0.37036,0.37036 197.03701,88.14813 197.03701,88.14813z" stroke-opacity="null" stroke-width="0" fill="url(#svg_31)"/>
+  <path id="svg_21" d="m238.93707,194.69699c0,0 193.33332,-165.55554 192.96296,-165.9259c0.37036,0.37036 -385.18516,164.81479 -385.55553,164.44444c0.37037,0.37035 192.59257,1.48146 192.59257,1.48146z" stroke-opacity="null" stroke-width="0" stroke="#000" fill="url(#svg_32)"/>
+  <path stroke="#000" id="svg_22" d="m662.0389,194.69699c0,0 -192.32399,-165.55554 -191.95557,-165.9259c-0.36843,0.37036 383.17424,164.81479 383.54268,164.44444c-0.36844,0.37035 -191.58711,1.48146 -191.58711,1.48146z" stroke-opacity="null" stroke-width="0" fill="url(#svg_33)"/>
+ </g>
+</svg>
